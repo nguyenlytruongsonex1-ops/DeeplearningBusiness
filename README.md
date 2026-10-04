@@ -27,8 +27,6 @@ KHOA HỆ THỐNG THÔNG TIN
 
 </div>
 
-> Nội dung README này được chuyển đầy đủ từ báo cáo PDF gốc: [docs/bao-cao-du-bao-thue-xe-dap.pdf](docs/bao-cao-du-bao-thue-xe-dap.pdf). Notebook thực nghiệm: [notebooks/bike_sharing_regression.ipynb](notebooks/bike_sharing_regression.ipynb). Xem thêm mục [Cấu trúc repo & cách chạy](#cấu-trúc-repo--cách-chạy) ở cuối trang.
-
 ---
 
 ## MỤC LỤC
