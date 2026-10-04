@@ -6,8 +6,7 @@ KHOA HỆ THỐNG THÔNG TIN
 
 <img src="images/uit-logo.png" alt="Logo Trường Đại học Công nghệ Thông tin" width="160">
 
-**BÁO CÁO ĐỒ ÁN CUỐI KỲ - Draft**<br>
-**Môn học: HỌC SÂU VÀ ỨNG DỤNG TRONG KINH DOANH**
+
 
 # DỰ BÁO NHU CẦU THUÊ XE ĐẠP CÔNG CỘNG THEO GIỜ BẰNG MẠNG NƠ-RON MLP
 
@@ -15,11 +14,7 @@ KHOA HỆ THỐNG THÔNG TIN
 
 </div>
 
-| **Lớp:** | IS6109.11.CH |
-|---|---|
-| **Giảng viên:** | TS. Tạ Hoàng Thắng |
-| **Nhóm thực hiện:** | Nguyễn Lý Trường Sơn <br>Tạ Nhật Hưng <br>Nguyễn Vũ Mai Phương <br>Đoàn Phạm Thanh Luân  |
-| **Ngày nộp:** | [date] |
+
 
 <div align="center">
 
