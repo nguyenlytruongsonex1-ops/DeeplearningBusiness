@@ -566,7 +566,7 @@ DeeplearningBusiness/
 ├── data/
 │   └── hour.csv                           # UCI Bike Sharing, dữ liệu theo giờ (17,379 dòng)
 ├── docs/
-│   └── bao-cao-du-bao-thue-xe-dap.pdf     # Báo cáo PDF gốc
+│   └── bao-cao-du-bao-thue-xe-dap.docx    # Báo cáo (Word)
 ├── images/                                # Logo bìa và các hình 1–7 trích từ PDF
 └── notebooks/
     └── bike_sharing_regression.ipynb      # Notebook thực nghiệm (EDA, baseline, HGB, RF, LightGBM, MLP PyTorch)
